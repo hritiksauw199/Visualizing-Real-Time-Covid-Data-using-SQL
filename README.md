@@ -1,4 +1,4 @@
-# Visualizing UK's Covid-Data using SQL
+# Visualizing UK's real-Time Covid-Data using SQL
 
 In this project we explores the UK Gov's COVID-19 data which is 
 publically available for download via a REST API from gov.uk. 
